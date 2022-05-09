@@ -6,7 +6,7 @@
     "file",
     "sharing"
   ],
-  "repository": "https://github.com/Abhyudkv/File-Sharing-Bot",
+  "repository": "https://github.com/Abhyudkv/Ak-Linkgenerator",
   "logo": "https://telegra.ph/file/aa96c233549319b7b7528.jpg",
   "env": {
     "TG_BOT_TOKEN": {
